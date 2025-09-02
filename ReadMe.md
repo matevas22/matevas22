@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Mateus Vaz Da Silva
 Iniciei minha carreira na área de Suporte em TI e Redes, onde desenvolvi uma base sólida em infraestrutura. Recentemente, migrei para o Desenvolvimento, atuando com a stack Python, utilizando o framework Django e bancos de dados MariaDB e SQLite. Também desenvolvo projetos pessoais em Java, explorando diferentes soluções e arquiteturas.
 
 
@@ -14,14 +14,5 @@ Iniciei minha carreira na área de Suporte em TI e Redes, onde desenvolvi uma ba
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=matevas22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=matevas22&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=matevas22&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,6 +1,8 @@
 # Backend develop
 Iniciei minha carreira na área de Suporte em TI e Redes, onde desenvolvi uma base sólida em infraestrutura. Recentemente, migrei para o Desenvolvimento, atuando com a stack Python, utilizando o framework Django e bancos de dados MariaDB e SQLite. Também desenvolvo projetos pessoais em Java, explorando diferentes soluções e arquiteturas.
 
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQGt5-tQWA4KzQ/profile-displaybackgroundimage-shrink_200_800/B4DZpPeqNdGQAU-/0/1762270029102?e=1777507200&v=beta&t=0I6FUmITGUlp_rTuLn7JKzJRWn6q6Ny2e0UKK7pZd_k" width="975" />
+
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mv.sutec?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mateus-vaz-26440b251/) 
